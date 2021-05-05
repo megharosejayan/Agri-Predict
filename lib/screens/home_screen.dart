@@ -797,8 +797,8 @@ class _HomeScreenState extends State<HomeScreen>
                       child: TextField(
                         decoration: InputDecoration(
                           border: OutlineInputBorder(),
-                          labelText: 'Enter the Area in acres',
-                          hintText: 'Enter Area Here in acres',
+                          labelText: 'Enter the Area in hectares',
+                          hintText: 'Enter Area Here in hectares',
                         ),
                         autofocus: false,
                         controller: area,
