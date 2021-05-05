@@ -134,7 +134,7 @@ class _AboutScreenState extends State<AboutScreen> {
                         height: 60,
                       ),
                       Text(
-                        "RESULT : " + widget.data.toString(),
+                        "RESULT : " + widget.data.toString() + " tonnes",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 17,
